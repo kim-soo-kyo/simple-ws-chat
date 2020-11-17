@@ -5,7 +5,7 @@ test websocket project for simple chat
 
 - jdk 11
 - spring-boot 2.3.1 / jpa / lombok
-- mysql
+- maria-db
 - html / sock.js / stomp.js / jquery 
 - maven
 
